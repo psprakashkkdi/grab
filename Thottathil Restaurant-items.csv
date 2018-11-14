@@ -1,77 +1,152 @@
-Name,Category,Price,ImageUrl,Description,Diet Type,Recommended,Available,nextAvailableAtMessage
-Idli (3 Pcs),South Indian,4000,noemgw40jc6tl5fxxgqx,,veg,Recommended,Available,none
-Dosa Plain,South Indian,4000,,,veg,Not Recommended,Available,none
-Set Dosa,South Indian,4000,,,veg,Not Recommended,Available,none
-Masala Dosa,South Indian,5000,,,veg,Not Recommended,Available,none
-Onion Dosa,South Indian,5000,,,veg,Not Recommended,Available,none
-Ghee Roast Dosa,South Indian,5000,,,veg,Not Recommended,Available,none
-Egg Dosa,South Indian,5000,,,nonveg,Not Recommended,Available,none
-Puttu (3 Pcs),South Indian,4000,x5ecdxgp9atf8b1wbxss,,veg,Recommended,Available,none
-Pathiri (4 Pc),South Indian,4000,,,veg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Puttu Mix,South Indian,13000,,,veg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Appam (3 Pcs),South Indian,4000,,,veg,Not Recommended,Available,none
-Egg Appam (1Pc),South Indian,2500,,,nonveg,Not Recommended,Available,none
-Idiyappam (3 Pcs),South Indian,4000,jtdeurxqovggegyotfcf,,veg,Recommended,Available,none
-Poori Masala (1 Pc),South Indian,5000,,,veg,Not Recommended,Available,none
-Poori (1 Pc),South Indian,1000,,,veg,Not Recommended,Available,none
-Pazham Pori (1 Pc),Quick Bites,1500,,,veg,Not Recommended,Available,none
-Elanchi (1 Pc),Quick Bites,1500,,,veg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Pazham Nirachathu,Quick Bites,3000,,,veg,Not Recommended,Available,none
-Nellikai Salt (1 Pc),Quick Bites,1000,,,veg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Pineapple Salt (1 Pc),Quick Bites,1000,,,veg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Kadalai Mittai,Quick Bites,600,,,veg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Onion Roast (1 Plate),Quick Bites,4000,,,veg,Not Recommended,Available,none
-Omelette,Quick Bites,2000,,,nonveg,Not Recommended,Available,none
-Bulls Eye,Quick Bites,2000,,,nonveg,Not Recommended,Available,none
-Half Boiled Egg,Quick Bites,2000,,,nonveg,Not Recommended,Available,none
-Boiled Egg (1 Pc),Quick Bites,1500,,,nonveg,Not Recommended,Available,none
-Kappa,Starters,5000,debf1fch3s7nrnzpclaf,,veg,Recommended,Not Available,|Next available at 8 am, tomorrow|
-Egg Bhurji,Starters,7000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Egg Roast,Starters,5000,,,nonveg,Not Recommended,Available,none
-Chicken Spicy,Starters,10000,pks5din4thaa9gikqpt9,,nonveg,Recommended,Not Available,|Next available at 8 am, tomorrow|
-Chicken Roast,Starters,10000,jn9trd6ae7tiskqm1pqz,,nonveg,Recommended,Not Available,|Next available at 8 am, tomorrow|
-Chicken Pepper,Starters,12000,iwmbct4tcgzaa67qiart,,nonveg,Recommended,Not Available,|Next available at 8 am, tomorrow|
-Chicken Chilli,Starters,15000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Cdf (1 Pc),Starters,11000,,Chicken dry fry.,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Kada Fry,Starters,10000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Alya (1 Pc),Starters,7500,x6e1s163il8q1cqxezge,,nonveg,Recommended,Not Available,|Next available at 8 am, tomorrow|
-Mathi (1 Pc),Starters,2000,hvor9dqkbqxdc20zde67,,nonveg,Recommended,Not Available,|Next available at 8 am, tomorrow|
-Podi Mean (1 Pc),Starters,10000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Avoll (1 Pc),Starters,13000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-King Fish (1 Pc),Starters,14000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Aykura (1 Pc),Starters,13000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Kadal Curry,Main Course,4000,ahitcxvzca2p9zh8vgcw,,veg,Recommended,Available,none
-Potato Curry,Main Course,3000,,,veg,Not Recommended,Available,none
-Tomato Curry,Main Course,5000,,,veg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Egg Curry,Main Course,4000,,,nonveg,Not Recommended,Available,none
-Chicken Curry,Main Course,11000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Mutton Masala,Main Course,15000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Mussles Masala,Main Course,15000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Duck Masala,Main Course,13000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Rabbit Masala,Main Course,16000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Prawns Masala,Main Course,13000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Squid Masala,Main Course,10000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Crab Masala,Main Course,10000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Egg Biryani,Main Course,11500,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Biryani Rice,Main Course,9000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Chicken Biryani,Main Course,9000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Kappa Biryani,Main Course,11500,,Contains chicken.,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Mutton Biryani,Main Course,12000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Kada Biryani,Main Course,19000,,Quail.,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Fish Biryani Prawns (Seasonal),Main Course,20000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Fish Biryani Aykura (Seasonal),Main Course,24000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Prawns Biryani,Main Course,20000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Ghee Rice,Main Course,8000,,,veg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-White Rice,Main Course,8000,n37tbhivph9nt470eab6,,veg,Recommended,Not Available,|Next available at 8 am, tomorrow|
-Boiled Rice,Main Course,8000,xce9tyep3ffdqwtgbrco,,veg,Recommended,Not Available,|Next available at 8 am, tomorrow|
-Wheat Parotta,Main Course,2000,,,veg,Not Recommended,Available,none
-Kerala Parotta,Main Course,2000,,,veg,Not Recommended,Available,none
-Chapatti (1 Pc),Main Course,1300,,,veg,Not Recommended,Available,none
-Green Peas,Main Course,4000,urfb8skvyglmwottd7d3,,veg,Recommended,Available,none
-Beef Curry,Main Course,10000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Beef Fry,Starters,10000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Beef Dry Fry,Starters,13000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Beef Masala,Main Course,10000,,,nonveg,Not Recommended,Available,none
-Beef Biryani,Main Course,17000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
-Ayla Curry,Main Course,9000,pp4wubh9eqg76ymlw813,,nonveg,Recommended,Not Available,|Next available at 8 am, tomorrow|
-Mathi Curry,Main Course,5000,xpp5igjpnu1ivnpxoyfq,,nonveg,Recommended,Not Available,|Next available at 8 am, tomorrow|
+Name,Category,Price,ImageUrl,Description,Diet Type,Recommended,Available,nextAvailableAtMessage
+
+Idli (3 Pcs),South Indian,4000,noemgw40jc6tl5fxxgqx,,veg,Recommended,Available,none
+
+Dosa Plain,South Indian,4000,,,veg,Not Recommended,Available,none
+
+Set Dosa,South Indian,4000,,,veg,Not Recommended,Available,none
+
+Onion Dosa,South Indian,5000,,,veg,Not Recommended,Available,none
+
+Ghee Roast Dosa,South Indian,5000,,,veg,Not Recommended,Available,none
+
+Egg Dosa,South Indian,5000,,,nonveg,Not Recommended,Available,none
+
+Puttu (3 Pcs),South Indian,4000,x5ecdxgp9atf8b1wbxss,,veg,Recommended,Available,none
+
+Pathiri (4 Pc),South Indian,4000,,,veg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Puttu Mix,South Indian,13000,,,veg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Appam (3 Pcs),South Indian,4000,,,veg,Not Recommended,Available,none
+
+Egg Appam (1Pc),South Indian,2500,,,nonveg,Not Recommended,Available,none
+
+Idiyappam (3 Pcs),South Indian,4000,jtdeurxqovggegyotfcf,,veg,Recommended,Available,none
+
+Poori Masala (1 Pc),South Indian,5000,,,veg,Not Recommended,Available,none
+
+Poori (1 Pc),South Indian,1000,,,veg,Not Recommended,Available,none
+
+Pazham Pori (1 Pc),Quick Bites,1500,,,veg,Not Recommended,Available,none
+
+Elanchi (1 Pc),Quick Bites,1500,,,veg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Pazham Nirachathu,Quick Bites,3000,,,veg,Not Recommended,Available,none
+
+Nellikai Salt (1 Pc),Quick Bites,1000,,,veg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Pineapple Salt (1 Pc),Quick Bites,1000,,,veg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Kadalai Mittai,Quick Bites,600,,,veg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Onion Roast (1 Plate),Quick Bites,4000,,,veg,Not Recommended,Available,none
+
+Omelette,Quick Bites,2000,,,nonveg,Not Recommended,Available,none
+
+Bulls Eye,Quick Bites,2000,,,nonveg,Not Recommended,Available,none
+
+Half Boiled Egg,Quick Bites,2000,,,nonveg,Not Recommended,Available,none
+
+Boiled Egg (1 Pc),Quick Bites,1500,,,nonveg,Not Recommended,Available,none
+
+Kappa,Starters,5000,debf1fch3s7nrnzpclaf,,veg,Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Egg Bhurji,Starters,7000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Egg Roast,Starters,5000,,,nonveg,Not Recommended,Available,none
+
+Chicken Spicy,Starters,10000,pks5din4thaa9gikqpt9,,nonveg,Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Chicken Roast,Starters,10000,jn9trd6ae7tiskqm1pqz,,nonveg,Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Chicken Pepper,Starters,12000,iwmbct4tcgzaa67qiart,,nonveg,Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Chicken Chilli,Starters,15000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Cdf (1 Pc),Starters,11000,,Chicken dry fry.,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Kada Fry,Starters,10000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Alya (1 Pc),Starters,7500,x6e1s163il8q1cqxezge,,nonveg,Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Mathi (1 Pc),Starters,2000,hvor9dqkbqxdc20zde67,,nonveg,Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Podi Mean (1 Pc),Starters,10000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Avoll (1 Pc),Starters,13000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+King Fish (1 Pc),Starters,14000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Aykura (1 Pc),Starters,13000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Kadal Curry,Main Course,4000,ahitcxvzca2p9zh8vgcw,,veg,Recommended,Available,none
+
+Potato Curry,Main Course,3000,,,veg,Not Recommended,Available,none
+
+Tomato Curry,Main Course,5000,,,veg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Egg Curry,Main Course,4000,,,nonveg,Not Recommended,Available,none
+
+Chicken Curry,Main Course,11000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Mutton Masala,Main Course,15000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Mussles Masala,Main Course,15000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Duck Masala,Main Course,13000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Rabbit Masala,Main Course,16000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Prawns Masala,Main Course,13000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Squid Masala,Main Course,10000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Crab Masala,Main Course,10000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Egg Biryani,Main Course,11500,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Biryani Rice,Main Course,9000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Chicken Biryani,Main Course,9000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Kappa Biryani,Main Course,11500,,Contains chicken.,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Mutton Biryani,Main Course,12000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Kada Biryani,Main Course,19000,,Quail.,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Fish Biryani Prawns (Seasonal),Main Course,20000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Fish Biryani Aykura (Seasonal),Main Course,24000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Prawns Biryani,Main Course,20000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Ghee Rice,Main Course,8000,,,veg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+White Rice,Main Course,8000,n37tbhivph9nt470eab6,,veg,Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Boiled Rice,Main Course,8000,xce9tyep3ffdqwtgbrco,,veg,Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Wheat Parotta,Main Course,2000,,,veg,Not Recommended,Available,none
+
+Kerala Parotta,Main Course,2000,,,veg,Not Recommended,Available,none
+
+Chapatti (1 Pc),Main Course,1300,,,veg,Not Recommended,Available,none
+
+Green Peas,Main Course,4000,urfb8skvyglmwottd7d3,,veg,Recommended,Available,none
+
+Beef Curry,Main Course,10000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Beef Fry,Starters,10000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Beef Dry Fry,Starters,13000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Beef Masala,Main Course,10000,,,nonveg,Not Recommended,Available,none
+
+Beef Biryani,Main Course,17000,,,nonveg,Not Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Ayla Curry,Main Course,9000,pp4wubh9eqg76ymlw813,,nonveg,Recommended,Not Available,|Next available at 8 am, tomorrow|
+
+Mathi Curry,Main Course,5000,xpp5igjpnu1ivnpxoyfq,,nonveg,Recommended,Not Available,|Next available at 8 am, tomorrow|
+

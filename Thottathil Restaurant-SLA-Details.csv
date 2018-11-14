@@ -1,0 +1,2 @@
+slaString,deliveryTime,minDeliveryTime,maxDeliveryTime,lastMileTravel,thirtyMinOrFree,longDistance,rainMode
+26 MINS,26,25,35,1.97,True,NOT_LONG_DISTANCE,NONE

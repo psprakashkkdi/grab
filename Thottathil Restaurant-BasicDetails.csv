@@ -1,2 +1,4 @@
-name,latLong,city,area,areaPostalCode,locality,avgRatingString,totalRatingsString,cloudinaryImageId,cuisines,diet_type
-Thottathil Restaurant,|12.926667,77.61499100000003|,Bangalore,BTM,560068,Maruthi Nagar,4.1,5000+ ratings,xphkhcuvxjatngszwwij,['South Indian'],nonveg
+name,latLong,city,area,areaPostalCode,locality,avgRatingString,totalRatingsString,cloudinaryImageId,cuisines,diet_type
+
+Thottathil Restaurant,|12.926667 77.61499100000003|,Bangalore,BTM,560068,Maruthi Nagar,4.1,5000+ ratings,xphkhcuvxjatngszwwij,['South Indian'],nonveg
+
